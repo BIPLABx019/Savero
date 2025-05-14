@@ -28,10 +28,9 @@ An AI-driven, gamified personal finance and investing platform built for young a
 
 ## 🧠 Tech Stack
 
-- **Frontend**: HTML, CSS, JavaScript, React (or your framework of choice)  
-- **3D UI**: [Three.js](https://threejs.org/) for interactive visuals  
-- **Backend**: Node.js / Express / Firebase / Supabase *(based on your preference)*  
-- **Database**: MongoDB / Firestore / PostgreSQL  
+- **Frontend**: HTML, CSS, JavaScript, React (or your framework of choice) 
+- **Backend**: Node.js / Express  
+- **Database**: MongoDB  
 - **AI**: Expense categorization & scoring (custom logic or integration with LLMs / ML APIs)
 
 ---
