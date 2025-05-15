@@ -1,11 +1,11 @@
 import React from "react";
+import { MoveUpRight } from 'lucide-react';
 
 const Navbar = () => {
   return (
-    <div className="h-12 bg-transparent w-[90%] flex justify-between mt-4 ml-20">
+    <div className="h-12 bg-transparent w-[86%] flex justify-between mt-4 ml-40 items-center">
       <div>
-        <img className="" src="" alt="" />
-        <h1 className="text-3xl font-bold ">Savero</h1>
+        <h1 className="text-5xl ">Savero</h1>
       </div>
       <div className="flex">
         <div className = "h-10 flex items-center">
@@ -23,7 +23,12 @@ const Navbar = () => {
           </a>
         </div>
         <div>
-          <button className="text-2xl ml-4 mr-4 bg-[#FF5722] px-2 py-1 ">Login/Signup</button>
+          <button className="text-2xl ml-6 mr-6 bg-[#FF5722] px-2 py-1 flex items-center">
+            <div className="mr-2 ml-2">
+            LOG IN / SIGNUP
+            </div>
+            <MoveUpRight />
+          </button>
         </div>
       </div>
     </div>
