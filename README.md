@@ -1,4 +1,4 @@
-# 💰 AI-Powered Student Finance App
+# 💰 AI-Powered GEN-Z Finance App
 
 An AI-driven, gamified personal finance and investing platform built for young adults (18–30) to track expenses, build savings, and invest toward meaningful goals — all while earning rewards for good financial habits.
 
